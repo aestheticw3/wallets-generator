@@ -1,10 +1,10 @@
 # wallets-generator
 
-This script generates a given number of wallets and saves them to txt and csv files.
+This script generates a given number of wallets and saves their addresses, private keys, mnemonics to txt and csv files.
 
 ## Installation
 
-We need the "ethers" and "papaparse" libraries, so use the command below in your terminal:
+We need the "ethers" and "papaparse" libraries, so use the commands below in your terminal:
 
 ```sh
 cd wallets-generator
