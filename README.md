@@ -8,7 +8,7 @@ We need the "ethers" and "papaparse" libraries, so use the commands below in you
 
 ```sh
 cd wallets-generator
-yarn install
+npm i
 ```
 
 ## Usage
