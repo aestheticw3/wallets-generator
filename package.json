@@ -1,0 +1,11 @@
+{
+	"name": "wallets-generator",
+	"version": "1.0.0",
+	"main": "main.js",
+	"type": "module",
+	"license": "MIT",
+	"dependencies": {
+		"ethers": "^6.4.0",
+		"papaparse": "^5.4.1"
+	}
+}
