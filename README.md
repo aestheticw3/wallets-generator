@@ -13,7 +13,7 @@ npm i
 
 ## Usage
 
-You should run the script with this command and follow the next instructions:
+You should run the script with this command and follow the instructions:
 
 ```sh
 node main
